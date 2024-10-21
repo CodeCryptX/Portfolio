@@ -883,8 +883,8 @@ button:hover,
 }
 
 .service-item:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(255, 107, 0, 0.2);
+     transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(255, 102, 0, 0.708);
 }
 
 .service-item:nth-child(1) { animation-delay: 0.1s; }
@@ -903,8 +903,6 @@ button:hover,
 
 .service-item:hover .service-header {
    /* background-color: var(--secondary-color);*/
-    transform: translateY(-10px);
-    box-shadow: 0 10px 20px rgba(255, 102, 0, 0.708);
 }
 
 .service-icon {
